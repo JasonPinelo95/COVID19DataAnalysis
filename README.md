@@ -1,7 +1,7 @@
 # COVID-19 Data Analysis Using Python
 
 This work was done as my final project for the subject of Programming in my University
-I wanted to apply most of the knowledge I acquired during the second quarter, that is, applying some statistics and programming to do Data Analysis, but mostly because it will help me with my next quarter
+I wanted to apply most of the knowledge I acquired during the second quarter, that is, applying some statistics and programming to do Data Analysis, but mostly because it will help me with my next quarter,
 I took as a reference a project offered by Coursera, you can find it here https://www.coursera.org/learn/covid19-data-analysis-using-python
 
 The motivation for this analysis is the next question:
